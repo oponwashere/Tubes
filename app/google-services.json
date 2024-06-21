@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351335653367",
+    "project_id": "rent-management-b7ff5",
+    "storage_bucket": "rent-management-b7ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351335653367:android:529d383a7d9106252658f2",
+        "android_client_info": {
+          "package_name": "com.example.rentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9H9Ecz_gf7fq3723IEt3sFQ3w2R6wMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
